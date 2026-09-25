@@ -1,0 +1,6 @@
+{
+  "name": "VisuRank - RAG Multimodal AI Question & Diagram Generator",
+  "description": "RAG-powered multimodal AI educational question generation system with automatic diagram generation, teacher review workflow, and student test evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
